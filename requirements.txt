@@ -46,6 +46,7 @@ python-dateutil==2.8.2
 python-dotenv==0.21.0
 pytz==2022.5
 pyzmq==24.0.1
+Rtree==1.0.1
 s3transfer==0.6.0
 Shapely==1.8.5.post1
 six==1.16.0
